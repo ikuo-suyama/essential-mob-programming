@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="304B49E8-47B2-4CFA-9613-707CE5FDF6E2">
+    <Notes>
+        <Note ID="0" FontSize="20.0" Position="289.0,1249.477661" Width="119.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Beginning mobbing
+初級モブ</String>
+        </Note>
+        <Note ID="1" FontSize="20.0" Position="274.265625,939.078125" Width="154.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Intermediate mobbing
+中級モブ</String>
+        </Note>
+        <Note ID="2" FontSize="20.0" Position="281.0,616.0" Width="111.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Advanced mobbing
+上級モブ</String>
+        </Note>
+        <Note ID="3" FontSize="15.0" Position="916.439758,1381.0" Width="153.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Single Navigator ナビゲータは一人</String>
+            <ConnectedNoteIDs>4-5, 26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="15.0" Position="697.359375,1344.789062" Width="207.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Navigate the Navigator ナビゲータをナビゲート</String>
+            <ConnectedNoteIDs>3, 26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="25.0" Position="925.0,1257.0" Width="310.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Smart Input Operator かしこい入力手</String>
+            <ConnectedNoteIDs>3, 7, 12, 15-16, 41, 72, 83</ConnectedNoteIDs>
+            <PointsToNoteIDs>16</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,28</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="6" FontSize="18.0" Position="886.005554,1023.915161" Width="182.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Frequent Retrospective
+頻繁にふりかえり</String>
+            <ConnectedNoteIDs>16, 24, 84</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,31</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="7" FontSize="15.0" Position="1324.0,1357.0" Width="139.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Think Out Loud 声に出しながら</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="20.0" Position="450.037933,1457.453125" Width="115.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Onsite</String>
+        </Note>
+        <Note ID="9" FontSize="20.0" Position="1600.290161,1453.418579" Width="81.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Remote</String>
+        </Note>
+        <Note ID="12" FontSize="15.0" Position="439.5,1189.0" Width="144.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Rotate on Timer
+タイマーで交代</String>
+            <ConnectedNoteIDs>5, 24, 31</ConnectedNoteIDs>
+            <PointsToNoteIDs>31</PointsToNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="15.0" Position="1536.5,996.0" Width="162.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Designated Driver 専属ドライバ</String>
+            <ConnectedNoteIDs>15-16, 64, 70</ConnectedNoteIDs>
+            <PointsToNoteIDs>64</PointsToNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="15.0" Position="1550.5,1195.0" Width="144.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Rotate on Event
+イベント毎で交代</String>
+            <ConnectedNoteIDs>5, 14, 24, 66, 83</ConnectedNoteIDs>
+            <PointsToNoteIDs>14</PointsToNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="25.0" Position="967.082581,937.993286" Width="234.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>All Contributor
+みんなが貢献者</String>
+            <ConnectedNoteIDs>5-6, 14, 18, 25, 31, 33, 65, 88-89</ConnectedNoteIDs>
+            <PointsToNoteIDs>33</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+                <FormatRange Bold="Yes">16,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="15.0" Position="1636.0,849.0" Width="126.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Laptops? Yes! 内職？いいよ！</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="18.0" Position="1362.165161,929.96875" Width="214.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>The edge of the mob
+モブの端っこ</String>
+            <ConnectedNoteIDs>16-17, 67-68, 88</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,26</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="24" FontSize="18.0" Position="929.0,1183.0" Width="139.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Forced Break
+ちゃんと休憩</String>
+            <ConnectedNoteIDs>6, 12, 15</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+                <FormatRange Bold="Yes">13,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="25" FontSize="15.0" Position="712.772339,842.898438" Width="157.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Just Do it!
+とにかくやってみよう</String>
+            <ConnectedNoteIDs>16, 65, 85</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="15.0" Position="757.830383,1276.90625" Width="162.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Experts Goes Last
+達人は最後に</String>
+            <ConnectedNoteIDs>3-4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="15.0" Position="424.5,677.0" Width="81.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Sync-Mob
+同期モブ</String>
+            <ConnectedNoteIDs>33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="15.0" Position="487.0,562.0" Width="171.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Double-Linking Mob
+接続モブ</String>
+            <ConnectedNoteIDs>33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="15.0" Position="439.5,1014.0" Width="144.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Frequent Rotate
+頻繁に交代</String>
+            <ConnectedNoteIDs>12, 16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="25.0" Position="2276.5,861.0" Width="144.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Discovery
+発見</String>
+            <ConnectedNoteIDs>34-35, 37, 87</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="33" FontSize="25.0" Position="904.0,611.0" Width="355.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String> One is all, All is one
+僕はチーム、チームは僕</String>
+            <ConnectedNoteIDs>16, 29-30, 64, 67-68, 85</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,35</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="34" FontSize="25.0" Position="2245.0,1048.0" Width="208.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Collaboration
+コラボレーション</String>
+            <ConnectedNoteIDs>32, 37, 39, 87</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,22</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="35" FontSize="20.0" Position="1856.0,945.0" Width="167.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Engagement
+エンゲージメント</String>
+            <ConnectedNoteIDs>32, 39-40, 87</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+                <FormatRange Bold="Yes">11,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="37" FontSize="20.0" Position="2071.5,802.0" Width="68.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Flow
+フロー</String>
+            <ConnectedNoteIDs>32, 34, 40</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,5</FormatRange>
+                <FormatRange Bold="Yes">5,3</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="39" FontSize="20.0" Position="1893.164062,1278.0" Width="93.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Respect
+尊敬</String>
+            <ConnectedNoteIDs>34-35, 87</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+                <FormatRange Bold="Yes">8,2</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="40" FontSize="20.0" Position="1905.0,626.0" Width="69.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Focus
+集中</String>
+            <ConnectedNoteIDs>35, 37, 87</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+                <FormatRange Bold="Yes">6,2</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="41" FontSize="18.0" Position="1130.569214,1379.099365" Width="181.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Yes! and…
+そうそう！それから…</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,20</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="1472.0,441.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="1472.0,1544.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>52</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="678.0,443.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>57</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="678.0,1528.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="20.0" Position="1053.415161,1456.152954" Width="57.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Both</String>
+        </Note>
+        <Note ID="64" FontSize="15.0" Position="1403.5,598.0" Width="155.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Casual Driver
+ドライバはカジュアル</String>
+            <ConnectedNoteIDs>14, 33, 71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="18.0" Position="593.0,935.0" Width="175.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Treasure Map
+ホワイトボードで！</String>
+            <ConnectedNoteIDs>16, 25</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+                <FormatRange Bold="Yes">13,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="66" FontSize="15.0" Position="1655.0,1273.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Git Handsover</String>
+            <ConnectedNoteIDs>15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="15.0" Position="1285.0,733.0" Width="171.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Invite the Experts
+達人をおまねき</String>
+            <ConnectedNoteIDs>18, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="15.0" Position="1140.5,734.0" Width="144.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Invite the Boss
+上司をおまねき</String>
+            <ConnectedNoteIDs>18, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="70" FontSize="15.0" Position="1641.5,926.0" Width="135.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Mob With Child
+子供の乱入</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="15.0" Position="1594.5,621.0" Width="127.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Many Drivers
+みんながドライバ</String>
+            <ConnectedNoteIDs>64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="18.0" Position="1270.609375,1286.359375" Width="204.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Navigation Backoff
+徐々に詳細に</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,25</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="76" FontSize="50.0" Position="1305.392822,342.308044" Width="520.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>A Mob Programming</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="77" FontSize="25.0" Position="2293.0,590.0" Width="99.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>価値
+Values</String>
+        </Note>
+        <Note ID="79" FontSize="25.0" Position="1932.5,539.0" Width="159.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>原則
+Principles</String>
+        </Note>
+        <Note ID="81" FontSize="25.0" Position="1054.0,421.0" Width="156.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>プラクティス
+Practices</String>
+        </Note>
+        <Note ID="83" FontSize="15.0" Position="1242.0,1152.0" Width="99.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Punch List
+TODOリスト</String>
+            <ConnectedNoteIDs>5, 15</ConnectedNoteIDs>
+            <PointsToNoteIDs>86</PointsToNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="15.0" Position="715.5,1030.0" Width="143.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Waste Snake
+やりたいことリスト</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="15.0" Position="813.0,733.0" Width="177.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Dynamic Todos
+ダイナミックTODOリスト</String>
+            <ConnectedNoteIDs>25, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="20.0" Position="2065.0,1059.0" Width="105.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Learning
+学び</String>
+            <ConnectedNoteIDs>32, 34-35, 39-40</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="88" FontSize="15.0" Position="1097.54126,844.823669" Width="234.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Everyone on the same page
+みんなの共通認識</String>
+            <ConnectedNoteIDs>16, 18, 89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="89" FontSize="15.0" Position="912.620544,844.856018" Width="146.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Many Navigators
+みんなでナビゲータ</String>
+            <ConnectedNoteIDs>16, 88</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="91" Sticky="No" Position="269.0,473.0" Width="1553.0" Height="1030.0">
+            <Appearance>
+                <Border Weight="1">0.175456 0.273127 0.084976</Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="59" Sticky="No" Position="341.0,1143.0" Width="1447.0" Height="298.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="60" Sticky="No" Position="341.0,823.0" Width="1447.0" Height="298.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="61" Sticky="No" Position="338.0,503.0" Width="1447.0" Height="298.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="78" Sticky="No" Position="2210.0,646.0" Width="268.848206" Height="687.929688">
+            <Appearance>
+                <Border Weight="1">0.668308 0.0 0.047636</Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="80" Sticky="No" Position="1849.0,593.0" Width="331.0" Height="815.0">
+            <Appearance>
+                <Border Weight="1">0.113012 0.061553 0.378771</Border>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <AutoFit>3-5, 9, 12, 14-18, 24-26, 29-35, 37, 39-41, 52, 54, 56-57, 63-64, 67-68, 70-72, 76-77, 79, 81, 83-85, 87-88</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="071C043B-6101-4C8A-A9A1-450410090F7F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="DDE24F1D-EC3C-4491-8C10-BF18B6EF7514" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="4791326E-564E-41D2-9B90-4DFA88C81A5D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="7EEAFCA2-4E67-49BA-BD17-8A8445271928" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="086642EB-CAA1-4C35-A7AA-B004D0844CEE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="3F3DB625-3DBF-4173-B825-2CF050B8B250" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="3AC37352-8B8D-4E64-98D1-0B7E553BD56C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Menlo-Regular</DefaultFont>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
